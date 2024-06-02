@@ -6,6 +6,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/kadjei23/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/kadjei23/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+- [Creating and setting up a VPN within Azure VMs](https://github.com/kadjei23/Azure-VPN=setup)
   - [Configuring Active Directory within Azure VMs](https://github.com/kadjei23/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kadjei23/azure-network-protocols)
 
