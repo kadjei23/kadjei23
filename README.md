@@ -17,4 +17,4 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/kablanadjei23
-[linkedin]: https://linkedin.com/in//kablan-boating-637b2a271
+[linkedin]: https://www.linkedin.com/in/kablan-boating-637b2a271/
